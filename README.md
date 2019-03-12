@@ -1,4 +1,4 @@
-# hello_worls
+# hello_world
 my first repository
 
 Hello, all!
